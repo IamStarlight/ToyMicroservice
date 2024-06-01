@@ -1,4 +1,6 @@
-# 2024 Java EE Homework 4 开发一个玩具微服务系统
+# BJTU 2024 Java EE Homework 4 
+
+# 玩具微服务系统
 
 #### 应用场景：
 
